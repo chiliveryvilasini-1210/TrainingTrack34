@@ -1,6 +1,6 @@
-# KaushalTrack — SIH26135 Prototype
+# TrainingTrack — SIH26135 Prototype
 
-**Team Kaushalya** · Problem Statement SIH26135 (Government of Maharashtra) · Theme: Smart Education
+**Team TrainingTrack** · Problem Statement SIH26135 (Government of Maharashtra) · Theme: Smart Education
 
 AI-powered outcome and impact tracking for skilling initiatives — tracks trainee employment
 outcomes, surfaces skill gaps, and predicts at-risk trainees **while their program is still
